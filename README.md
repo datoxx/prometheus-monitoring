@@ -5,7 +5,7 @@
 
 
 ### Deploy microservices
-    cd online-shop-microservices
+    cd microservices
     helmfile sync 
 
 
